@@ -1,5 +1,5 @@
 # Drum Machine
-A drum machine with two sound banks and keyboard inputs
+A drum machine with two sound banks and keyboard inputs. Play some cool tunes with this simple drum machine!
 
 ## Instructions
 No dependencies required. Simply download project as is to begin playing.
